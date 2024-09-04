@@ -1,1 +1,3 @@
 Please ignore that and move on.
+If you don't use -u (or --set-upstream), you'll need to specify the branch name every time you push or pull:
+git push origin feature-branch
