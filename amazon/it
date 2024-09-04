@@ -1,0 +1,3 @@
+Establishes a Tracking Relationship: After pushing with -u, the local branch you're on will be set to track the remote branch you specified. This means that future git push or git pull commands can be executed without specifying the branch name because Git will know which remote branch to interact with.
+
+Simplifies Future Push/Pull Commands: Once the upstream is set, you can simply run git push or git pull without any additional arguments, and Git will automatically push/pull to/from the upstream branch.
